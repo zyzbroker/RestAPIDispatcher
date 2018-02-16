@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>DispatchHandler</members>
+		<members>RestResult</members>
+		<members>AppSetting</members>
+		<members>IDispatcher</members>
+		<members>SObjectDispatcher</members>
+		<name>ApexClass</name>
+	</types>
+	<version>36.0</version>
+</Package>
